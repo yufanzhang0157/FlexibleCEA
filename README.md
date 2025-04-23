@@ -20,9 +20,9 @@ This repo includes Python scripts to model, simulate, and evaluate flexible elec
 
 | File                | Description                                                                                  |
 |---------------------|----------------------------------------------------------------------------------------------|
-| `economic_model.py` | Defines the optimization process for electricity and production scheduling.                  |
+| `economic_model.py` | Defines the optimization process for energy use.                  |
 | `running_model.py`  | Runs the economic model over the lettuce growing cycle.                                      |
-| `evaluation.py`     | Evaluates annual cost metrics, including cost and profit decomposition per kg of fresh lettuce. |
+| `evaluation.py`     | Evaluates annual cost metrics, and cost and profit decomposition. |
 
 ---
 
