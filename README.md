@@ -2,7 +2,6 @@
 
 # 🌿 FlexibleCEA
 
-**Offering Flexible Electricity Adjustment to Power Systems Can Cut Plant Factory Energy Costs by Up to 87%**
 
 Welcome to the official repository for the research study:
 
@@ -41,11 +40,5 @@ You can install them via pip:
 
 pip install numpy==1.18.1 pyomo==6.6.2
 
-## 📖 Citation
 
-If you use this codebase in your research, please cite the following:
-
-### 📄 Citation (Text)
-
-> Yufan Zhang, Fengqi You. *Offering Flexible Electricity Adjustment to Power Systems Can Cut Plant Factory Energy Costs by Up to 87%*. Submitted to *Nature Food*, 2025.
 
